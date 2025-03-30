@@ -47,12 +47,11 @@ opiniões dos consumidores e obter insights úteis sobre a percepção dos produ
 
 ## :memo: Recursos
 
-- Entrada de valores iniciais, taxas de juros, investimento mensal e período de investimento.
-- Opção para escolher entre taxas de juros anuais ou mensais.
-- Opção para escolher entre período de investimento em anos ou meses.
-- Cálculo preciso de juros compostos.
-- Exibição de resultados formatados em moeda BRL (Real Brasileiro).
-- Limpeza fácil dos campos para cálculos subsequentes.
+1. Coleta de Comentários: Automatiza a extração de avaliações de produtos em plataformas online, no caso foi usado o site da Amazon.
+2. Análise de Sentimentos: Utiliza uma API do Gemini para classificar os comentários em três categorias: Positivo, Neutro ou Negativo.
+3. Armazenamento de Dados: Salva os comentários e seus respectivos sentimentos em um banco de dados SQLite.
+4. Visualização Gráfica: Gera um gráfico de barras para representar a distribuição dos sentimentos dos comentários coletados.
+
 
 
 ## Contribuição
