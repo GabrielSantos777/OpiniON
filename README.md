@@ -42,7 +42,7 @@ O OpiniON é um projeto desenvolvido para coletar, analisar e visualizar coment�
 produtos disponíveis online. A ideia surgiu da necessidade de entender melhor as
 opiniões dos consumidores e obter insights úteis sobre a percepção dos produtos
 
-- [Acesse o projeto finalizado, online](https://github.com/GabrielSantos777/FinCalc)
+- [Acesse o projeto finalizado, online](https://github.com/GabrielSantos777/OpiniON)
 
 
 ## :memo: Recursos
